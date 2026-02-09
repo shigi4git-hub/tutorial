@@ -1,4 +1,1 @@
-サル先生のGitコマンド
-https://backlog.com/ja/git-tutorial/intro/13/
-※クローンからプッシュを実施する。
-feature-testブランチで追加
+conflict-branchで変更
